@@ -6,6 +6,7 @@
   "problems": [
     "bob",
     "list-ops",
+    "leap",
     "word-count",
     "anagram",
     "beer-song",
@@ -17,6 +18,7 @@
     "space-age",
     "minesweeper",
     "prime-factors",
+     "hexadecimal",
     "luhn",
     "zipper",
     "hangman"
